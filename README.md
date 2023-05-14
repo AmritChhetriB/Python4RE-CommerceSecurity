@@ -1,5 +1,5 @@
 # Python4RE-CommerceSecurity
-	Created by Amrit Chhetri, Cyber Security Researcher, Rosefinch
+	Created by Amrit Chhetri, Cyber Security Researcher, Rosefinch and My Cyber Hubs
 	-----------------------------------------------------------------
 
 
